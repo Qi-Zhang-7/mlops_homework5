@@ -5,4 +5,3 @@ def test_get_similar_responses():
     
     
 
-
